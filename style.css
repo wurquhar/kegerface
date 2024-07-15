@@ -1,5 +1,5 @@
 body {
-  background-image: url('images/background.jpg');
+  background-image: url('images/offwhite.png');
 }
 #header {
 	width: 1014px;
@@ -16,12 +16,12 @@ body {
 	width: 141px;
 	float: left;
 	font: 1.3em Georgia;
-	color: white;
+	color: rgb(88, 121, 98);
 	font-weight: bold;
 	text-align: center;
 }
 h1 {
-    color: white;
+    color: rgb(88, 121, 98);
     font-family: Georgia;
 	font-size: 2.5em;
 }
@@ -65,7 +65,7 @@ span {
 	top: -30px;
 	float: left;
 	font: 1em arial, verdana, sans-serif;
-	color: white;
+	color: rgb(88, 121, 98);
 	text-align: center;
 	font-weight: bold;
 	font-style:italic;
@@ -81,7 +81,7 @@ span {
 	top: -30px;
 	float: left;
 	font: 1em arial, verdana, sans-serif;
-	color: white;
+	color: rgb(88, 121, 98);
 	text-align: center;
 	font-weight: bold;
 	font-style:italic;
@@ -95,7 +95,7 @@ span {
 	top: -30px;
 	float: left;
 	font: 1em arial, verdana, sans-serif;
-	color: white;
+	color: rgb(88, 121, 98);
 	text-align: center;
 	font-weight: bold;
 	font-style:italic;
@@ -124,7 +124,7 @@ span {
         float:left;
 }
 #BeerName h1 {
-	color: white;
+	color: rgb(88, 121, 98);
 	font: 1.5em Georgia;
 	font-weight: bold;
 	word-wrap: break-word;
@@ -132,7 +132,7 @@ span {
 	-webkit-margin-after: 1.82em;
 }
 #BeerNameL h1 {
-        color: white;
+        color: rgb(88, 121, 98);
         font: 1.5em Georgia;
         font-weight: bold;
         word-wrap: break-word;
@@ -156,12 +156,12 @@ span {
 	border-right: 1px white dashed;
 	text-align: center;
 	font: 1.8em Georgia;
-	color: #D8D8D8;
+	color: rgb(88, 121, 98)	;
 }
 #BeerInfo h2 {
 	text-align: center;
 	font: .5em Georgia;
-	color: #C0C0C0;
+	color: rgb(88, 121, 98);
 	-webkit-margin-before: 5px;
 	-webkit-margin-after: 0px;
 }
