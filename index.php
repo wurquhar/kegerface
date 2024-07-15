@@ -74,7 +74,7 @@
 		</div>
 		
 		<div id="TitleBarKeg">
-		Remaining
+		Faucet
 		</div>
 		
 		<!-- Tap 1 -->
@@ -84,7 +84,7 @@
 			</div>	
 			<div id="<?php echo $beernamel['Beer1']; ?>">
 				<?php echo "<h1>", $beername['Beer1'], "</h1>";
-					echo "<h2>", $style['Beer1'], "<br />", $whobrew['Beer1'], "</h2>"; ?>
+					echo "<h2>", $style['Beer1'],"<br />", $whobrew['Beer1'], "</h2>"; ?>
 			</div>
 			<div id="BeerInfo">
 				<?php echo $abv['Beer1']; ?>
