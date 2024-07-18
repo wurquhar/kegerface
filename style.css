@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(136, 173, 134)
+  background-color: rgba(93, 131, 91, 0.482)
 }
 #header {
 	width: 1014px;
 	height: 100px;
-	border-bottom: 0px white dashed;
+	border-bottom: 3px white solid;
 }
 #headerboxb {
 	width:342px;
