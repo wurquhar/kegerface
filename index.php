@@ -89,7 +89,6 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer1']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/images/<?php echo $hops['Beer1']; ?> Hops.png" width="200">
 			</div>
 			<div id="BeerStatus">
 				<img src="/images/kegs/<?php echo $status['Beer1']; ?>.png" width="80">
@@ -111,7 +110,6 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer2']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/images/<?php echo $hops['Beer2']; ?> Hops.png" width="200">
 			</div>
 				<div id="BeerStatus">
 					<img src="/images/kegs/<?php echo $status['Beer2']; ?>.png" width="80">
@@ -131,7 +129,6 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer3']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/images/<?php echo $hops['Beer3']; ?> Hops.png" width="200">
 			</div>
 			<div id="BeerStatus">
 				<img src="/images/kegs/<?php echo $status['Beer3']; ?>.png" width="80">
@@ -153,7 +150,6 @@
 				<div id="BeerInfo">
 				<?php echo $abv['Beer4']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/images/<?php echo $hops['Beer4']; ?> Hops.png" width="200">
 			</div>
 				<div id="BeerStatus">
 					<img src="/images/kegs/<?php echo $status['Beer4']; ?>.png" width="80">
