@@ -40,7 +40,7 @@
 			fclose($handle);
 		?>
 	</head>
-	
+	<div id="wrap">
 	<body>
 		<div id="header">
 			<div id="headerboxa">

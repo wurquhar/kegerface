@@ -1,6 +1,9 @@
 body {
   background-color: rgba(93, 131, 91, 0.482)
 }
+#wrap {
+	width: 1325px;
+}
 #header {
 	width: 1014px;
 	height: 100px;
