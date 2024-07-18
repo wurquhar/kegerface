@@ -161,11 +161,7 @@
 			</div>
 		</div>
 
-		</div>		
-
-		<div id="footer">
-			Kegerface 2.13.13v
-		</div>
+		</div>	
 		
 		<!-- this overlays a graphic that gives a little more grunge look to everything -->
 		<span></span>
