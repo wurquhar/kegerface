@@ -18,7 +18,7 @@
 
 			
 			// set URL/Paths for csv and recipe pages
-			$beersurl = "beers.csv";
+			$beersurl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQT-5iyhLm7o6I1AvjYxCqhf9AQV4tqhOlGQx8geyuzOms08Rzf2-g1uIYWoS1J0TVp3DGcZ3-F_5Gs/pub?gid=524162896&single=true&output=csv";
 			$tap1fB = "";
 			$tap2fB = "";
 			$tap3fB = "";
@@ -137,7 +137,7 @@
 		</div>
 
 		<!-- Tap 4 -->
-		<div id="content-row2">
+		<!-- <div id="content-row2">
 			<div id="content-row2g">
 			</div>		
 			<div id="content-row2a">
@@ -156,7 +156,7 @@
 					<img src="/images/kegs/<?php echo $status['Beer4']; ?>.png" width="80">
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		</div>	
 		
