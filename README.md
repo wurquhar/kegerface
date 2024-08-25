@@ -1,11 +1,7 @@
-kegerface
+dispatch kegerface
 =========
 
-A Kegerator Interface!
-This is a work in progress. Be gentle.
-
-
-Questions? Comments? Want to Contribute? email us - kegerface@gmail.com
+Based on the original kegerface project! This is my spin on it for my setup; changed some coloration and working on better mobile optimization for QR code scanning. If you have tips or want to contribute, feel free to drop me a line!
 
 
 Note for beers.csv
