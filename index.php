@@ -137,7 +137,7 @@
 		</div>
 
 		<!-- Tap 4 -->
-		 <div id="content-row2">
+		 <!--<div id="content-row2">
 			<div id="content-row2g">
 			</div>		
 			<div id="content-row2a">
@@ -156,9 +156,9 @@
 					<img src="/images/kegs/<?php echo $status['Beer4']; ?>.png" width="80">
 				</div>
 			</div>
-		</div>
+		</div> -->
 
-		</div>	
+		</div>
 		
 		<!-- this overlays a graphic that gives a little more grunge look to everything -->
 		<span></span>
