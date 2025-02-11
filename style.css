@@ -131,7 +131,7 @@ span {
 	font-weight: bold;
 	word-wrap: break-word;
 	-webkit-margin-before: 10px;
-	-webkit-margin-after: 1.82em;
+	-webkit-margin-after: .5em;
 }
 #BeerNameL h1 {
         color: white;
